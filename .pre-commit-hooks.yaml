@@ -1,0 +1,6 @@
+- id: yadl
+  name: Yadl
+  description: Runs Yadl
+  entry: yadl
+  language: python
+  files: \.py$
